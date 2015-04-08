@@ -1,6 +1,6 @@
 ---
 layout: page
-title:网站纪录 
+title: 网站纪录 
 permalink: /log/
 ---
 
