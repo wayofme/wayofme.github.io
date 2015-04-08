@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /log/
+permalink: /tool/
 ---
 
 - Github相关
