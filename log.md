@@ -14,3 +14,7 @@ permalink: /log/
 - 添加tool.md
 - 删除about.md
 - 修改首页
+
+#### 20140409
+
+- 添加排版工具
