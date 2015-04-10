@@ -15,3 +15,5 @@ permalink: /log/
 - 删除about.md
 - 修改首页
 
+#### 2015年 04月 10日 星期五 10:08:39 CST
+- 添加博客favicon.ico
